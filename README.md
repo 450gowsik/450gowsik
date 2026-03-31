@@ -1,20 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Gowsik%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20MERN%20%2B%20Python%20%7C%20AWS&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928dab,100:1f1c2c&height=200&section=header&text=Gowsik%20P&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
 
-<h3>Building scalable systems and solving real-world problems with code</h3>
+<h2>Building scalable products • Solving real-world problems • Writing clean systems</h2>
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/450gowsik/450gowsik/main/profile.png" style="border-radius:50%; border:3px solid #2c5364;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8E9AAF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%2B+Python+%2B+AWS;Focused+on+Scalable+Systems;Open+to+Software+Engineer+Roles" />
+
+<br/><br/>
+
+<img align="right" width="230" src="https://raw.githubusercontent.com/450gowsik/450gowsik/main/profile.png" style="border-radius:50%; border:3px solid #928dab;" />
 
 <p>
   <a href="https://linkedin.com/in/gowsik-babu-813240292">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:gowsikbabubabu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/450gowsik">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -27,75 +31,66 @@
 ```yaml
 name: Gowsik P
 role: Software Engineer (Full Stack)
-location: Chennai, India
 
-summary:
-  - Built scalable full-stack applications solving real-world problems
-  - Hands-on experience with AWS (EC2, Load Balancer, Auto Scaling)
-  - Strong foundation in backend systems, REST APIs, and database design
+focus:
+  - Scalable web applications
+  - Backend systems & API design
+  - Cloud-based deployment
 
 experience:
   - Full Stack Developer Intern @ Triple One Solutions
   - UI/UX Designer @ Yahweh Solutions
 
-core_strengths:
-  - MERN Stack Development
-  - System Design & API Engineering
-  - Cloud Infrastructure (AWS)
+tech:
+  - MERN Stack, Python
+  - AWS (EC2, Load Balancer, Auto Scaling)
+  - REST APIs, System Design
 
-goal: To build high-impact, scalable products in a top-tier engineering team
+strength:
+  - Problem-solving mindset
+  - Fast learner
+  - Production-ready development
+
+goal: Build impactful systems in high-performance engineering teams
 ```
 
 ---
 
-## Why Hire Me
+## Value Proposition
 
-- Built real-world platforms such as DayCraft (job matching system)
-- Experience in scalable deployment using AWS
-- Strong problem-solving and backend architecture skills
-- Quick learner with production-ready mindset
-- Ready to contribute from Day 1
+- Built production-level applications solving real-world problems  
+- Hands-on cloud deployment using AWS infrastructure  
+- Strong backend and system design fundamentals  
+- Ability to design, build, and deploy end-to-end systems  
+- Ready to contribute immediately in engineering teams  
 
 ---
 
 ## Tech Stack
 
-### Core
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+<div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,mysql,aws,git,github,html,css" />
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
-
-### Cloud & Database
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+</div>
 
 ---
 
-## Projects
+## Featured Work
 
-### DayCraft  
-Problem: Daily wage workers struggle to find jobs  
-Solution: Built a full-stack platform connecting workers and employers  
-Impact: Improved accessibility and job matching  
+### DayCraft
+- Built a platform connecting daily wage workers with employers  
+- Designed role-based architecture and real-time workflows  
+- Focused on accessibility and scalability  
 
-Tech: React, Node.js, Express, MongoDB, AWS  
+Tech: React, Node.js, MongoDB, AWS  
 
 ---
 
-### Student Management System  
-Problem: Manual academic tracking is inefficient  
-Solution: Role-based system for managing students, marks, and attendance  
-Impact: Automated SGPA/CGPA and reduced manual workload  
+### Student Management System
+- Developed a role-based academic management platform  
+- Automated grading (SGPA/CGPA) and attendance tracking  
+- Reduced manual workload through system automation  
 
 Tech: Python, Flask, MySQL  
 
@@ -105,24 +100,25 @@ Tech: Python, Flask, MySQL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=450gowsik&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=450gowsik&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=450gowsik&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=450gowsik&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=450gowsik&theme=github-dark&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=450gowsik&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
 ---
 
-## Currently Learning
+## Current Focus
 
-- System Design (Scalability, Microservices)
-- DevOps (CI/CD, Docker, Kubernetes)
-- Advanced AWS Architecture
+- System Design (scalability, distributed systems)  
+- DevOps (CI/CD, Docker, Kubernetes)  
+- Advanced AWS architecture  
 
 ---
 
@@ -133,7 +129,7 @@ Tech: Python, Flask, MySQL
 Open to Software Engineer roles and internships  
 
 <a href="mailto:gowsikbabubabu@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Contact_Me-111?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
@@ -142,6 +138,6 @@ Open to Software Engineer roles and internships
 
 <div align="center">
 
-"I build solutions that create real impact."
+"Engineering is not just coding — it's solving problems at scale."
 
 </div>
