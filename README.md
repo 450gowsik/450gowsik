@@ -4,7 +4,7 @@
 
 <h3>Building scalable systems and solving real-world problems with code</h3>
 
-<img align="right" alt="Profile" width="220" style="border-radius:50%;" src="https://your-image-link.com/profile.png"/>
+<img align="right" width="220" src="https://raw.githubusercontent.com/450gowsik/450gowsik/main/profile.png" style="border-radius:50%; border:3px solid #2c5364;" />
 
 <p>
   <a href="https://linkedin.com/in/gowsik-babu-813240292">
@@ -31,7 +31,7 @@ location: Chennai, India
 
 summary:
   - Built scalable full-stack applications solving real-world problems
-  - Hands-on experience with cloud deployment (AWS EC2, Load Balancer, Auto Scaling)
+  - Hands-on experience with AWS (EC2, Load Balancer, Auto Scaling)
   - Strong foundation in backend systems, REST APIs, and database design
 
 experience:
